@@ -159,53 +159,27 @@ p {
 	margin-bottom: 10px;
 }
 
+/* side-area formatting */
 
+#benefits li {
+	padding: 8px;
+	border-bottom: 1px solid #f3efcb;
+	height: 6em;
+}
 
+#benefits li a img {
+	float: left;
+	margin-right: 8px;
+}
 
+#benefits li a p {
+	color: #000;
+	font-size: 0.8em;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#benefits li a h3 {
+	font-size:1.1em;
+	color: #615b2d;
+	padding: 5px 0;
+	background: url("../imagens/ornamento.png") no-repeat center right
+}
