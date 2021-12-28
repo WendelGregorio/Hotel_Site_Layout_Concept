@@ -183,3 +183,8 @@ p {
 	padding: 5px 0;
 	background: url("../imagens/ornamento.png") no-repeat center right
 }
+
+#benefits li:hover {
+	background: #f6f3d6;
+	cursor: pointer;
+}
